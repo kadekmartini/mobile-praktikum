@@ -27,3 +27,15 @@ kadekmartini
 
 ## Status
 Proyek awal perkuliahan.
+# Proyek Pemrograman Mobile - Aplikasi Alfagift
+
+## Tujuan
+- Menambahkan fitur tombol "Beli Sekarang" langsung dari halaman detail produk untuk mempermudah proses checkout.
+
+## Rencana Fitur
+- Tombol Beli Sekarang: Menambahkan tombol "Beli Sekarang" pada halaman detail produk agar pengguna yang membeli satu barang dapat langsung menuju checkout tanpa harus masuk ke keranjang terlebih dahulu.
+
+## Cara Menjalankan
+1. Pastikan SDK Flutter telah terinstal.
+2. Jalankan `flutter pub get` untuk mengunduh dependensi.
+3. Jalankan `flutter run` untuk memulai aplikasi.
