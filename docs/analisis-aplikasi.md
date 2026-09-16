@@ -24,3 +24,5 @@ Pengguna Alfagift adalah mahasiswa, pekerja, ibu rumah tangga, dan masyarakat um
 ## Usulan Perbaikan
 
 Salah satu perbaikan yang dapat dilakukan adalah menambahkan tombol **Beli Sekarang** pada halaman produk. Tombol tersebut dapat langsung membawa pengguna ke halaman checkout sehingga pengguna yang hanya ingin membeli satu barang tidak perlu memasukkan barang ke keranjang terlebih dahulu. Dengan demikian, proses pembelian dapat menjadi lebih cepat dan sederhana.
+
+<!-- Dokumen analisis Alfagift -->
